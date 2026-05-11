@@ -10,4 +10,11 @@
         {% endfor %}
     {% endif %}
 {% endwith %}
+<div style="margin-left: 50px;"> 
+    <form action="#" method="post">
+        <label for="email">Email</label>
+        <input type="email" name="email" placeholder="Enter your email..." value="{{email}}"></input>
+        <button style="background-color: slateblue; color: white;" type="submit">Login</button>
+    </form>
+ </div>
 {% endblock %}
