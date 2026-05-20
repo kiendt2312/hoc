@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: flask-extended
+Version: 0.2
+Summary: flask_extended is a tool for help you developing flask applications
+Home-page: UNKNOWN
+Author: giusekk
+Author-email: mannargiusepp@gmail.com
+License: UNKNOWN
+Keywords: flask,helper,flask_extended
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: flask
+
+flask_extended is a tool for help you developing flask application using some api
+
